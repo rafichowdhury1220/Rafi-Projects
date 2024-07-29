@@ -1,5 +1,7 @@
 ---
 
+![image](https://github.com/user-attachments/assets/686413f0-7fd7-4982-bc23-695977ed5fba)
+
 # Welcome to Rafi's Project Repository
 
 Hello! Welcome to my project repository. Here, you'll find a collection of various projects that I've worked on. Below, I've outlined the contents of my current project to help you navigate and understand its purpose.
